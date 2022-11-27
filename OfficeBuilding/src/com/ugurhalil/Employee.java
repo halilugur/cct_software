@@ -14,7 +14,7 @@ public class Employee {
     private String lastname;
     private String ppsn;
     private Integer employeeId;
-    private Double wallet;
+    protected Double wallet;
 
     /**
      * Create an employee
